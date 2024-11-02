@@ -1,7 +1,9 @@
-#
+# Test String Comparison
+
+## Description
 
 ## Result
-= main
+
 #1
  "string1" == "string1" -> true
 #2
